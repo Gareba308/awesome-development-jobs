@@ -46,6 +46,7 @@ Here are list of job websites that are dedicated to remote jobs and listings.
 * [WFH](https://www.wfh.io/)
 * [Work Remotely](https://workremotely.io/)
 * [Working Nomads](http://www.workingnomads.co/jobs)
+* [Remoseal](https://www.remoseal.com)
 
 ### Specialist Freelance Job Sites
 
